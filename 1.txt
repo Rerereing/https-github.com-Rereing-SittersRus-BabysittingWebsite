@@ -1,0 +1,47 @@
+
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sitter R - 自己紹介</title>
+  <style>
+    body {
+      background-color: #e6f4ff;
+      font-family: 'Segoe UI', 'Hiragino Kaku Gothic ProN', sans-serif;
+      color: #333;
+      margin: 0;
+      padding: 20px;
+    }
+    header {
+      background-color: #cdeeff;
+      padding: 20px;
+      text-align: center;
+      border-radius: 8px;
+    }
+    h1 {
+      margin: 0;
+      color: #005577;
+    }
+    section {
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Sitter R</h1>
+    <p>優しさと安心をお届けするシッター</p>
+  </header>
+
+  <section>
+    <h2>自己紹介</h2>
+    <p>こんにちは！Sitter R です。赤ちゃんやお子さんと関わるお仕事が大好きで、これまでに〇〇人以上のお子さんと関わってきました。安全第一で、心を込めてお預かりいたします。</p>
+  </section>
+
+  <section>
+    <h2>このサイトについて</h2>
+    <p>このサイトでは、私の自己紹介、料金案内、連絡方法を掲載しています。ぜひご覧ください。</p>
+  </section>
+</body>
+</html>
